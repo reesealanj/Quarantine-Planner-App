@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Quarantine Planner</string>
+    <string name="email_label">Email</string>
+    <string name="pass_label">Password</string>
+    <string name="repPass_label">Repeat Password</string>
+    <string name="login_label">Login</string>
+    <string name="create_submit">Create Account</string>
+    <string name="create_label">New? Create an Account.</string>
+    <string name="create_title">Create an Account</string>
+    <string name="back_label">Return to Login</string>
+    <string name="pref_file_name">quarantine-planner</string>
+    <string name="saved_email">SAVED_EMAIL</string>
+    <string name="saved_password">SAVED_PASSWORD</string>
+    <string name="pref_title">Preferences</string>
+    <string name="pref_description">Input your preferences to generate a night in.</string>
+    <string name="media_title">Media Type</string>
+    <string name="food_title">Food</string>
+    <string name="movie_label">Movies</string>
+    <string name="tv_label">TV Shows</string>
+    <string name="genre_label">Genre</string>
+    <string name="media_section">What to Watch?</string>
+    <string name="food_section">What to Eat?</string>
+    <string name="food_meal_label">Meal Type</string>
+    <string name="protein_label">Protein Choice</string>
+    <string name="dairy_free">Dairy Free</string>
+    <string name="gluten_free">Gluten Free</string>
+    <string name="vegan">Vegan</string>
+    <string name="generate_label">Generate my night in!</string>
+    <string-array name="media_genres">
+        <item>Choose a Genre…</item>
+        <item>Animated</item>
+        <item>Comedy</item>
+        <item>Documentary</item>
+        <item>Drama</item>
+        <item>Family</item>
+        <item>Science Fiction</item>
+    </string-array>
+    <string-array name="meal_types">
+        <item>Choose a Meal Type…</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+    <string-array name="protien_types">
+        <item>Choose a Protien…</item>
+        <item>Beef</item>
+        <item>Pork</item>
+        <item>Chicken</item>
+        <item>Turkey</item>
+        <item>Tofu</item>
+        <item>Vegetarian</item>
+    </string-array>
+    <string name="prefs_back_button">Change Preferences</string>
+    <string name="media_recc_title">Media Recommendation</string>
+    <string name="food_recc_title">Meal Recommendation</string>
+    <string name="cooking_time">Cooking Time: %1$d minutes</string>
+    <string name="total_yield">Makes: %1$d</string>
+    <string name="media_display_title">Name of A Movie</string>
+    <string name="meal_display_title">Name of Dinner</string>
+    <string name="media_description">feugiat in ante metus dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu non odio euismod lacinia at quis risus sed vulputate odio ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque in</string>
+</resources>

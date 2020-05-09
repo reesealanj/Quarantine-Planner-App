@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1040805455628",
+    "firebase_url": "https://quarantine-planner.firebaseio.com",
+    "project_id": "quarantine-planner",
+    "storage_bucket": "quarantine-planner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040805455628:android:10a61b886f1456acd68b29",
+        "android_client_info": {
+          "package_name": "com.example.quarantineplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040805455628-bj3au3194nj9lmednjnn723s5lc4l92o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAckV8VUIhAY9xVMgLUZ6VZlBilQb5RCIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040805455628-bj3au3194nj9lmednjnn723s5lc4l92o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
